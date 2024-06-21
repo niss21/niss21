@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN STACK<br>👨‍💻 All of my projects are available at [pemsherpa.com.np](https://pemsherpa.com.np/)<br>📄 Know about my experiences https://shorturl.at/CG056
+🌱 I’m currently learning ML<br>👨‍💻 All of my projects are available at [pemsherpa.com.np](https://pemsherpa.com.np/)<br>📄 Know about my experiences https://shorturl.at/CG056
 
 
 ## 🌐 Socials:
